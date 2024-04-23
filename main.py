@@ -4,7 +4,7 @@ import random
 
 uni_list = [u"\u2061", u"\u2062", u"\u2063", u"\u2064"]
 
-bot = telebot.TeleBot("5844926586:AAFmCC21LaNpcMUB9Tg90V9v8w_AGyH5Uks")
+bot = telebot.TeleBot("")
 
 id_sticker = "CAACAgIAAxkBAAEGlkVjhKdcurpQwMm9redbmkBGG1uUEwACKgwAArn2kUnBfIbAyJ91rCsE"
 
